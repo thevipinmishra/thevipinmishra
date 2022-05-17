@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://vipinmishra.dev/blog/](https://vipinmishra.dev/blog/)
 
-- 💬 Ask me about **Bootstrap, CSS & UI Debugging**
+- 💬 Ask me about **CSS & Web Layouts**
 
 - 📫 How to reach me **thevipinmishra@gmail.com**
 
