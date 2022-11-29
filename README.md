@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://vipinmishra.dev/blog/](https://vipinmishra.dev/blog/)
 
-- 💬 Ask me about **CSS & Web Layouts**
+- 💬 Ask me about **Frontend, CSS & Design Systems.**
 
 - 📫 How to reach me **thevipinmishra@gmail.com**
 
