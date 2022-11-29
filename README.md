@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/thevipinmishra/thevipinmishra/master/github-banner.png" style="display: block; width: 100%" />
 
 
 <h1 align="center">Hi 👋, I'm Vipin Mishra</h1>
