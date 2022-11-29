@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend, CSS & Design Systems.**
 
-- 📫 How to reach me **thevipinmishra@gmail.com**
+- 📫 Say Hi on **thevipinmishra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
